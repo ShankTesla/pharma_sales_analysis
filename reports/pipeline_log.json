@@ -38,5 +38,29 @@
     {
         "step": "03_clean_weekday_names",
         "rows": 2106
+    },
+    {
+        "step": "01_strip_column_names",
+        "rows": 2106
+    },
+    {
+        "step": "01_column_names_to_lower_case",
+        "rows": 2106
+    },
+    {
+        "step": "01_snake_case column names",
+        "rows": 2106
+    },
+    {
+        "step": "02_date_type_fix",
+        "rows": 2106
+    },
+    {
+        "step": "03_clean_weekday_names",
+        "rows": 2106
+    },
+    {
+        "step": "03_clean_weekday_names",
+        "rows": 2106
     }
 ]
